@@ -1,0 +1,9 @@
+{
+  "name": "clearit-agents",
+  "version": "1.0.0",
+  "description": "Agentes especialistas da ClearIT: revisão de código, segurança, observabilidade, DevOps, logs, diagramas e mais",
+  "author": {
+    "name": "ClearIT"
+  },
+  "keywords": ["clearit", "code-review", "security", "observability", "devops"]
+}

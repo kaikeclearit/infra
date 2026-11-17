@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "clearit": {
+      "source": {
+        "source": "git",
+        "url": "git@github.com:kaikeclearit/infra.git"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "clearit-agents@clearit": true
+  }
+}
